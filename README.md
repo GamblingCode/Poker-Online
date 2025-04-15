@@ -24,8 +24,8 @@
 * 𝐌𝐢𝐧𝐢-𝐒𝐢𝐠𝐧𝐚𝐥𝐬
 
 
-𝐕𝐢𝐝𝐞𝐨
-
+# Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/41e3gZgURvU/0.jpg)](https://www.youtube.com/watch?v=41e3gZgURvU)
 
 
 
